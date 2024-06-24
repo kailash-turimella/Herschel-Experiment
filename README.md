@@ -1,4 +1,4 @@
-# Herschel Experiment - Temperature Measurement Device
+# Herschel Experiment
 
 ## Overview
 

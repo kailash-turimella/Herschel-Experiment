@@ -62,6 +62,6 @@ We extend our gratitude to our teacher and client for their guidance and support
 
 ---
 
-For more details, please refer to the [Herschel Experiment Documentation](./mnt/data/Herschel%20Experiment.pdf) and [Project Presentation](./mnt/data/Project%20Presentation.pdf).
+For more details, please refer to the [Overview](./mnt/data/Overview.pdf) and [Presentation](./mnt/data/Presentation.pdf).
 
 Thank you for your interest in our project!
